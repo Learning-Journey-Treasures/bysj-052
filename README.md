@@ -7,8 +7,8 @@
 - 通过Navicat创建数据库，导入sql
 - 根据本地数据库环境，修改src/main/resources/application.yml  11-14行（这步很关键）
 - 启动项目
-- 管理web：http://localhost:8080/ssmqj7b0/admin/dist/index.html, 账号密码：abo/abo, 不对就查看数据库
-- 门户web：http://localhost:8080/ssmqj7b0/front/index.html  账号密码自行查询数据库
+- 管理web：http://本机IP:8080/ssmqj7b0/admin/dist/index.html, 账号密码：abo/abo, 不对就查看数据库
+- 门户web：http://本机IP:8080/ssmqj7b0/front/index.html  账号密码自行查询数据库
 # 3.项目部分截图
 ![输入图片说明](1.png)
 ![输入图片说明](2.png)
